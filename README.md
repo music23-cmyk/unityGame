@@ -9,10 +9,7 @@ Videojuego en el que una pelota debe conseguir ciertos coleccionables amarillos 
 
 ## Instalación 🔧
 
-Abrir la carpeta descomprimida desde unity hub con la versión ya instalada e iniciar la aplicación. Debe aparecer debajo de la carpeta de Assets
-
-<img width="392" height="463" alt="image" src="https://github.com/user-attachments/assets/7e4498d5-d14e-41a9-8ca1-de68710a52f9" />
-
+Abrir la carpeta descomprimida desde unity hub con la versión ya instalada e iniciar la aplicación. 
 
 ## Ejecutando las pruebas ⚙️
 
