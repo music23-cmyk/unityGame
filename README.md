@@ -18,10 +18,12 @@ Una vez inicada la aplicación en unity, primero hay que seleccionar la escena d
 
 
 <img width="1019" height="1207" alt="image" src="https://github.com/user-attachments/assets/bc97d74f-b1ed-4e12-b260-fa434c74625b" />
-
-
-
-
+-
+-
+-
+-
+-
+-
 E iniciar el juego haciendo click en el botón play para verificar que funciona el videojuego.
 
 
