@@ -6,7 +6,6 @@ Videojuego en el que una pelota debe conseguir ciertos coleccionables amarillos 
 - Windows
 - Unity 6000.0.60f1
 - Unity Hub 3.14.3
-- Descargar el archivo .zip de la carpeta Library, descomprimirla y añadirla en la carpeta principal del proyecto unityGame https://drive.google.com/drive/folders/1yIqAP8i8JhUXEN87mO-_Kr6T83gueO2c?usp=drive_link 
 
 ## Instalación 🔧
 
